@@ -1,0 +1,198 @@
+# depslib dependency file v1.0
+1417983530 source:c:\erikprogram\ld31\ld31 - new\main.cpp
+	<iostream>
+	<fcntl.h>
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	"resource.h"
+	"definitions.h"
+	"game.h"
+
+1417982604 c:\erikprogram\ld31\ld31 - new\definitions.h
+
+1417921098 c:\erikprogram\ld31\ld31 - new\game.h
+	<SOIL/SOIL.h>
+	<iostream>
+	<ctime>
+	<gl/gl.h>
+	"definitions.h"
+	"player.h"
+	"world.h"
+	"gamepad.h"
+	"sound.h"
+	"particle_engine.h"
+
+1417974233 c:\erikprogram\ld31\ld31 - new\player.h
+	<iostream>
+	<gl/gl.h>
+	<vector>
+	"definitions.h"
+	"world.h"
+	"gamepad.h"
+	"particle_engine.h"
+
+1417982304 c:\erikprogram\ld31\ld31 - new\world.h
+	<iostream>
+	<fstream>
+	<math.h>
+	<gl/gl.h>
+	<vector>
+	"definitions.h"
+	"movable_wall.h"
+	"particle_engine.h"
+
+1417980671 source:c:\erikprogram\ld31\ld31 - new\game.cpp
+	"game.h"
+
+1417980275 source:c:\erikprogram\ld31\ld31 - new\player.cpp
+	"player.h"
+
+1417984298 source:c:\erikprogram\ld31\ld31 - new\world.cpp
+	"world.h"
+
+1388789872 source:c:\erikprogram\ld31\ld31 - new\gamepad.cpp
+	"gamepad.h"
+
+1402760544 c:\erikprogram\ld31\ld31 - new\gamepad.h
+	<windows.h>
+	<D3D/XInput.h>
+
+1417869270 c:\erikprogram\ld31\ld31 - new\sound.h
+	"sound_list.h"
+	<cstdlib>
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	<windows.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1417980671 c:\erikprogram\ld31\ld31 - new\sound_list.h
+
+1417869153 source:c:\erikprogram\ld31\ld31 - new\sound.cpp
+	<stdio.h>
+	"sound.h"
+
+1417871797 c:\erikprogram\ld31\ld31 - new\resource.h
+
+1417871797 source:c:\erikprogram\ld31\ld31 - new\resource.rc
+	"resource.h"
+
+1417921329 source:c:\cpp\ld31\ld31 - new\game.cpp
+	"game.h"
+
+1417921098 c:\cpp\ld31\ld31 - new\game.h
+	<SOIL/SOIL.h>
+	<iostream>
+	<ctime>
+	<gl/gl.h>
+	"definitions.h"
+	"player.h"
+	"world.h"
+	"gamepad.h"
+	"sound.h"
+	"particle_engine.h"
+
+1417896780 c:\cpp\ld31\ld31 - new\definitions.h
+
+1417916676 c:\cpp\ld31\ld31 - new\player.h
+	<iostream>
+	<gl/gl.h>
+	"definitions.h"
+	"world.h"
+	"gamepad.h"
+	"particle_engine.h"
+
+1417920205 c:\cpp\ld31\ld31 - new\world.h
+	<iostream>
+	<fstream>
+	<math.h>
+	<gl/gl.h>
+	<vector>
+	"definitions.h"
+	"movable_wall.h"
+	"particle_engine.h"
+
+1402756944 c:\cpp\ld31\ld31 - new\gamepad.h
+	<windows.h>
+	<D3D/XInput.h>
+
+1417869270 c:\cpp\ld31\ld31 - new\sound.h
+	"sound_list.h"
+	<cstdlib>
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	<windows.h>
+	<AL/al.h>
+	<AL/alc.h>
+
+1417919331 c:\cpp\ld31\ld31 - new\sound_list.h
+
+1388789872 source:c:\cpp\ld31\ld31 - new\gamepad.cpp
+	"gamepad.h"
+
+1417921166 source:c:\cpp\ld31\ld31 - new\main.cpp
+	<iostream>
+	<fcntl.h>
+	<windows.h>
+	<gl/gl.h>
+	<stdio.h>
+	"resource.h"
+	"definitions.h"
+	"game.h"
+
+1417871797 c:\cpp\ld31\ld31 - new\resource.h
+
+1417920205 source:c:\cpp\ld31\ld31 - new\player.cpp
+	"player.h"
+
+1417871797 source:c:\cpp\ld31\ld31 - new\resource.rc
+	"resource.h"
+
+1417869153 source:c:\cpp\ld31\ld31 - new\sound.cpp
+	<stdio.h>
+	"sound.h"
+
+1417920361 source:c:\cpp\ld31\ld31 - new\world.cpp
+	"world.h"
+
+1417912126 c:\cpp\ld31\ld31 - new\movable_wall.h
+	<iostream>
+	<gl/gl.h>
+	"definitions.h"
+
+1417912210 source:c:\cpp\ld31\ld31 - new\movable_wall.cpp
+	"movable_wall.h"
+
+1417917624 c:\cpp\ld31\ld31 - new\particle_engine.h
+	<iostream>
+	<gl/gl.h>
+	<stdlib.h>
+	<math.h>
+	"definitions.h"
+
+1417918017 source:c:\cpp\ld31\ld31 - new\particle_engine.cpp
+	"particle_engine.h"
+
+1417912126 c:\erikprogram\ld31\ld31 - new\movable_wall.h
+	<iostream>
+	<gl/gl.h>
+	"definitions.h"
+
+1417948140 c:\erikprogram\ld31\ld31 - new\particle_engine.h
+	<iostream>
+	<gl/gl.h>
+	<stdlib.h>
+	<math.h>
+	"definitions.h"
+
+1417912210 source:c:\erikprogram\ld31\ld31 - new\movable_wall.cpp
+	"movable_wall.h"
+
+1417948140 source:c:\erikprogram\ld31\ld31 - new\particle_engine.cpp
+	"particle_engine.h"
+

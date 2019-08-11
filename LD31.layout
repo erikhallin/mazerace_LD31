@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Start" />
+	<File name="definitions.h" open="1" top="0" tabpos="1">
+		<Cursor position="231" topLine="0" />
+	</File>
+	<File name="game.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="8849" topLine="0" />
+	</File>
+	<File name="game.h" open="1" top="0" tabpos="3">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="738" topLine="6" />
+	</File>
+	<File name="particle_engine.cpp" open="0" top="0" tabpos="10">
+		<Cursor position="1532" topLine="0" />
+	</File>
+	<File name="particle_engine.h" open="1" top="0" tabpos="9">
+		<Cursor position="453" topLine="0" />
+	</File>
+	<File name="player.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="7182" topLine="0" />
+	</File>
+	<File name="player.h" open="1" top="0" tabpos="5">
+		<Cursor position="1170" topLine="0" />
+	</File>
+	<File name="sound.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="5180" topLine="87" />
+	</File>
+	<File name="sound_list.h" open="0" top="0" tabpos="0">
+		<Cursor position="175" topLine="0" />
+	</File>
+	<File name="world.cpp" open="1" top="1" tabpos="8">
+		<Cursor position="15754" topLine="23" />
+	</File>
+	<File name="world.h" open="1" top="0" tabpos="7">
+		<Cursor position="1383" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
